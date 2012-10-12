@@ -1,0 +1,6 @@
+[submodule "Base"]
+	path = Base
+	url = https://ssoerensen@github.com/Corelib-org/Base.git
+[submodule "Users"]
+	path = Users
+	url = https://ssoerensen@github.com/Corelib-org/Users.git
